@@ -1,0 +1,24 @@
+{
+  "name": "meanpress",
+  "version": "1.0.0",
+  "description": "mean blog framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "test meanpress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malsubrata/meanpress.git"
+  },
+  "keywords": [
+    "mean",
+    "blog",
+    "post"
+  ],
+  "author": "subrata mal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malsubrata/meanpress/issues"
+  },
+  "homepage": "https://github.com/malsubrata/meanpress#readme"
+}
